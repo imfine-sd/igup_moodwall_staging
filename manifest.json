@@ -1,9 +1,10 @@
 {
   "name": "MoodWallController",
   "short_name": "MWC",
+  "orientation": "landscape",
   "start_url": "./index.html",
+  "scope": "./index.html",
   "display": "standalone",
-    "orientation": "landscape",
   "background_color": "#F8F7DA",
   "theme_color": "#8C383A",
   "description": "controll MoodWall",
