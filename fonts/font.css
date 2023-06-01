@@ -1,3 +1,7 @@
+html {
+  overflow-x: hidden;
+}
+
 @font-face {
   font-family: KlavikaBold;
   src: url("./KlavikaBold-Bold.otf") format("opentype");
@@ -12,5 +16,5 @@
 }
 @font-face {
   font-family: SpoqaHanSansNeo;
-  src: url("./SpoqaHanSansNeo-Bold.ttf") format("truetype");
+  src: url("./SpoqaHanSansNeo-Bold.woff") format("woff");
 }
