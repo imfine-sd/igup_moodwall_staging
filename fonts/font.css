@@ -1,0 +1,16 @@
+@font-face {
+  font-family: KlavikaBold;
+  src: url("./KlavikaBold-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: KlavikaMedCaps;
+  src: url("./KlavikaMedCaps-SC.otf") format("opentype");
+}
+@font-face {
+  font-family: KoreanYNSJG3R;
+  src: url("./KoreanYNSJG3R.ttf") format("truetype");
+}
+@font-face {
+  font-family: SpoqaHanSansNeo;
+  src: url("./SpoqaHanSansNeo-Bold.ttf") format("truetype");
+}

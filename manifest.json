@@ -1,0 +1,32 @@
+{
+  "name": "MoodWallController",
+  "short_name": "MWC",
+  "start_url": "",
+  "display": "standalone",
+  "background_color": "#F8F7DA",
+  "theme_color": "#8C383A",
+  "description": "controll MoodWall",
+  "icons": [
+    {
+      "type": "image/png",
+      "src": "icons/icon_64.png",
+      "sizes": "64x64 32x32 24x24 16x16"
+    },
+    {
+      "type": "image/png",
+      "src": "icons/icon_196.png",
+      "sizes": "196x196"
+    },
+    {
+      "type": "image/png",
+      "src": "icons/icon_512.png",
+      "sizes": "512x512"
+    },
+    {
+      "type": "image/png",
+      "src": "icons/icon_1024.png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
