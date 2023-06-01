@@ -3,6 +3,7 @@
   "short_name": "MWC",
   "start_url": "./index.html",
   "display": "standalone",
+    "orientation": "landscape",
   "background_color": "#F8F7DA",
   "theme_color": "#8C383A",
   "description": "controll MoodWall",
